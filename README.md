@@ -1,0 +1,1 @@
+# Video_Color_Palette_Extractor
